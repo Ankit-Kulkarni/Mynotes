@@ -1,4 +1,4 @@
-Mynotes
+MyNotes
 =======
 
-This repo includes notes taken as abstract while i watch videos, or learn some cool stuff. 
+This repo has the notes which i have extracted while watching online videos, or while learning some cool stuff.
